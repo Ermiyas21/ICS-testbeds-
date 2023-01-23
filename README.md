@@ -4,4 +4,4 @@
 
 Year  | Dataset  | Application area  | Number of features  |Sample (normal/attack)/% | Attack Type  | Data Size  | Data format  | Data set publicly available  
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
+2015 | SWaT  | Water Treatment  | 52  | 286 | Injection attack  | 285 | CSV | https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/ 
