@@ -12,6 +12,8 @@ Year  | Dataset  | Application area  | Number of features  |communication protoc
 2019|  ICS  Cyber Attack Datasets  | Power System, Gas Pipeline, Water Storage Tank, Gas Pipeline, and Energy Management | 20 | MODBUS, DNP3, GOOSE,and IEEE C37.118 | ?? | Injection attack, Replay| CSV, ARFF | https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets 
 2019|  Electra ICS dataset   | Power System | 11 | Modbus TCP, S7Comm| Reconnaissance, Injection, Replay| 56, 1.7GB | CSV| http://perception.inf.um.es/ICS-datasets/  
 2018|  EPIC   | Power System | 9 | -| No attacks| ?? | pcap ,CSV| https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/    
+2019|  WADI   | water distribution | 49 | CIP EtherNet, Modbus RS485, HSPA |  Injection attack | ?? | CSV| https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/  
+
 
 
 
