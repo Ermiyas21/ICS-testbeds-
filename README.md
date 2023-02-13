@@ -13,10 +13,11 @@ Year  | Dataset  | Application area  | Number of features  |communication protoc
 2019|  Electra ICS dataset   | Power System | 11 | Modbus TCP, S7Comm| Reconnaissance, Injection, Replay| 56, 1.7GB | CSV| http://perception.inf.um.es/ICS-datasets/  
 2018|  EPIC   | Power System | 9 | -| No attacks| ?? | pcap ,CSV| https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/  
 2019|  WADI   | water distribution | 49 | CIP EtherNet, Modbus RS485, HSPA |  Injection attack | ?? | CSV| https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/ 
-2017, 2019, and 2020 |  CISS   | water distribution | 6 | 286 |  Injection attack | ?? | pcap| https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/   
+2017, 2019, and 2020 |  CISS   | water distribution | 6 | 286 |  Injection attack | - | pcap| https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/   
 2019|  HVAC_Traces   | Heating, ventilation, and air conditioning | - | TCP/IP |  Injection attack | - | pcap| https://github.com/gkabasele/HVAC_Traces/blob/master/README.md   
-2016|  Lemay Covert and SCADA  | Breakers Controller| 7| Modbus|Covert Channel, Reconnaissance, Injection | - | pcap, CSV| https://github.com/antoine-lemay/Modbus_dataset   
-
+2016|  Lemay Covert and SCADA  | Breakers Controller| 6| Modbus|Covert Channel, Reconnaissance, Injection | - | pcap, CSV| https://github.com/antoine-lemay/Modbus_dataset   
+2019|  modbus TCP SCADA #1 | Liquid Pump| 6| Modbus TCP|Main-in-the-Middle attack,denial of service | 639,184, and 214 | pcap| https://github.com/tjcruz-dei/ICS_PCAPS/releases/tag/MODBUSTCP%231  
+2017| S7comm critical infrastructure | Mining Refinery| 7| S7comm |Main-in-the-Middle attack| 291.9 | pcap| https://github.com/tjcruz-dei/ICS_PCAPS/releases/tag/MODBUSTCP%231  
 
 
 
