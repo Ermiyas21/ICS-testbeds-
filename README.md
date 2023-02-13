@@ -1,6 +1,6 @@
 # ICS-testbeds-
 
-#Avaibale datasets
+# Avaibale datasets
 
 Year  | Dataset  | Application area  | Number of features  |communication protocol| Attack Type  | Data Size  | Data format (Mega Byte)  | Data set URL  
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
