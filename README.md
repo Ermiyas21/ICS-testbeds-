@@ -19,7 +19,13 @@ Year  | Dataset  | Application area  | Number of features  |communication protoc
 2019|  modbus TCP SCADA #1 | Liquid Pump| 6| Modbus TCP|Main-in-the-Middle attack,denial of service | 639,184, and 214 | pcap| https://github.com/tjcruz-dei/ICS_PCAPS/releases/tag/MODBUSTCP%231  
 2017| S7comm critical infrastructure | Mining Refinery| 7| S7comm |Main-in-the-Middle attack| 291.9 | pcap| https://github.com/tjcruz-dei/ICS_PCAPS/releases/tag/MODBUSTCP%231  
 2015| S4x15 ICS | Generic ICS| 6| - |Unknown| 34, 10, 2, and 10  | pcap| https://www.netresec.com/?page=DigitalBond_S4   
- 
+2016| CyberCity Dataset | SANS CYBERCITY| 6| - |Injection, MitM, DoS, and Reconnaissan| 160 | pcap| https://ieeexplore.ieee.org/document/7423146 
+2018|WUSTL-IIOT-2018  | water treatment and distribution| 7| Modbus |Reconnaissan| 627 | pcap| https://www.cse.wustl.edu/~jain/iiot/index.html 
+2017|2017QUT_DNP3| Power Grid| 6|MODBUS, S7comm, GOOSE, EtherNetIP|Reconnaissan, Replay, Main-in-the-Middle attack, Injection| 1500 | pcap,logs| https://github.com/qut-infosec/2017QUT_DNP3
+2017|QUT_S7_Myers| Generic ICS|25 |-|Main-in-the-Middle attack, Injection| 140| pcap, csv, xlsx| https://cloudstor.aarnet.edu.au/plus/index.php/s/9qFfeVmfX7K5IDH 
+2022|Edge-IIoTset| IoT and IIoT applications|61 |IPV4,ARP,ICMP, HTTP, TCP, UDP, DNS, MQTTand MODBUS TCP|Main-in-the-Middle attack, Injection| 1480| pcap, csv,txt, and zip| https://cloudstor.aarnet.edu.au/plus/index.php/s/9qFfeVmfX7K5IDH  
+
+
 
 
 
