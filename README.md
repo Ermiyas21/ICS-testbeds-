@@ -10,6 +10,7 @@ Year  | Dataset  | Application area  | Number of features  |communication protoc
 2016|  BATADAL   | Water Distribution | 45 |-| Injection attack | 1.16 and 2.08 | csv, inp | https://www.batadal.net/data.html 
 2019|  CLIK on PLCs   | Generic ICS | 6 | Modbus TCP | function code attack | 3.75 | pcap | https://gitlab.com/safelab/clik/-/tree/master/   
 2019|  ICS  Cyber Attack Datasets  | Power System, Gas Pipeline, Water Storage Tank, Gas Pipeline, and Energy Management | 20 | MODBUS, DNP3, GOOSE,and IEEE C37.118 | ?? | Injection attack, Replay| CSV, ARFF | https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets 
+2019|  Electra ICS dataset   | Power System | 11 | Modbus TCP, S7Comm| Reconnaissance, Injection, Replay| 56, 1.7GB | CSV| http://perception.inf.um.es/ICS-datasets/  
 
 
 
