@@ -23,6 +23,7 @@ SNO|Year  | Dataset  | Application area  | Number of features  |communication pr
 18 | 2017|2017QUT_DNP3| Power Grid| 6|MODBUS, S7comm, GOOSE, EtherNetIP|Reconnaissan, Replay, Main-in-the-Middle attack, Injection| 1500 | pcap,logs| https://github.com/qut-infosec/2017QUT_DNP3
 19 | 2017|QUT_S7_Myers| Generic ICS|25 |-|Main-in-the-Middle attack, Injection| 140| pcap, csv, xlsx| https://cloudstor.aarnet.edu.au/plus/index.php/s/9qFfeVmfX7K5IDH 
 20 | 2022|Edge-IIoTset| IoT and IIoT applications|61 |IPV4,ARP,ICMP, HTTP, TCP, UDP, DNS, MQTTand MODBUS TCP|Main-in-the-Middle attack, Injection| 1480| pcap, csv,txt, and zip| https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot
+21 |2018|N-BaIoT| IoT Botnet Attacks|23 |TCP, UDP|False IP Injection| 61.5| pcap, csv| http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT 
 
 
 
