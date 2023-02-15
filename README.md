@@ -25,7 +25,7 @@ SNO|Year  | Dataset  | Application area  | Number of features  |communication pr
 20 | 2022|Edge-IIoTset| IoT and IIoT applications|61 |IPV4,ARP,ICMP, HTTP, TCP, UDP, DNS, MQTTand MODBUS TCP|Main-in-the-Middle attack, Injection| 1480| pcap, csv,txt, and zip| https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot
 21 |2018|N-BaIoT| IoT Botnet Attacks|23 |TCP, UDP|False IP Injection| 61.5| pcap, csv| http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT 
 22 |2019|BoT-IoT| Forensic systems|32|TCP, MQTT,Http, UDP|False data Injection|16700, 69300| pcap, csv| https://research.unsw.edu.au/projects/bot-iot-dataset 
-23 |2020|MQTTest| Forensic systems|33|MQTT|denial of service, MQTT Publish flood, SlowITe, malformed data, and brute force authentication|1300| pcap, csv| https://research.unsw.edu.au/projects/bot-iot-dataset 
+23 |2020|MQTTest| Forensic systems|33|MQTT|denial of service, MQTT Publish flood, SlowITe, malformed data, and brute force authentication|1300| pcap, csv| https://ieee-dataport.org/open-access/mqtt-iot-ids2020-mqtt-internet-things-intrusion-detection-dataset
 
 
 
