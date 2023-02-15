@@ -28,7 +28,7 @@ SNO|Year  | Dataset  | Application area  | Number of features  |communication pr
 23 |2020|MQTTest| IoT networks security|33|MQTT|denial of service, MQTT Publish flood, SlowITe, malformed data, and brute force authentication|1300| pcap, csv| https://ieee-dataport.org/open-access/mqtt-iot-ids2020-mqtt-internet-things-intrusion-detection-dataset
 24 |2019|BoT-IoT|Generic Industry 4.0 |133, 125|MQTT|Scanning attack,DoS,DDoS,Ransomware, Injection and Backdoor|148| pcap, csv| https://research.unsw.edu.au/projects/toniot-datasets
 25 |2021|X-IIoTID|Generic Industrial IoT| 68 | MQTT |Reconnaissance, Weaponisation, Exploitation,Data Exfiltration|355.31| csv| https://ieee-dataport.org/documents/x-iiotid-connectivity-and-device-agnostic-intrusion-dataset-industrial-internet-things 
-26|2021|WUSTL-IIOT-2018  |Generic Industrial IoT| 41 | Modbus,BACnet, DNP3, MQTT  |Injection attack|101| csv| https://www.cse.wustl.edu/~jain/iiot2/index.html  
+26|2021|WUSTL-IIOT-2021  |Generic Industrial IoT| 41 | Modbus,BACnet, DNP3, MQTT  |Injection attack|101| csv| https://www.cse.wustl.edu/~jain/iiot2/index.html  
 
 
 
